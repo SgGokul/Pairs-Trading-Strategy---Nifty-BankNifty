@@ -1,1 +1,1 @@
-# Pairs-Trading-Strategy---Nifty-BankNifty
+# Pairs-Trading-Strategy Nifty-BankNifty
